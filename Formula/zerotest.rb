@@ -1,4 +1,4 @@
-class zerotest < Formula
+class Zerotest < Formula
   desc "converting raw terminal error lof to JSON for AI agents and humans"
   homepage "https://www.zerotest.scopohobic.xyz"
   version "0.1.2"
