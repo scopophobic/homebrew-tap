@@ -10,13 +10,13 @@ class zerotest < Formula
     end
 
     on_intel do
-      url "https://github.com/scopophobic/ZeroTest/releases/download/v0.1.2/zerotest-darwin-amd64"
+      url "https://github.com/scopophobic/ZeroTest/releases/download/v0.1.2/zerotest-darwin-amd64.tar.gz"
       sha256 "ae54d9206ce042385a0725f9fc84f10a4a6d7d5995a13cc8fd28294c52d9ef5c"
     end
   end
 
   on_linux do
-    url "https://github.com/scopophobic/ZeroTest/releases/download/v0.1.2/zerotest-linux-amd64"
+    url "https://github.com/scopophobic/ZeroTest/releases/download/v0.1.2/zerotest-linux-amd64.tar.gz"
     sha256 "6091984c2f94310c383b77c30a9ffc644cb1f646e22989a4e149609a64ecb963"
   end
 
