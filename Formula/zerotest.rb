@@ -6,7 +6,7 @@ class Zerotest < Formula
   on_macos do
     on_arm do
       url "https://github.com/scopophobic/ZeroTest/releases/download/v0.1.2/zerotest-darwin-arm64.tar.gz"
-      sha256 "293981dd8ed9c993382f8ae2a678e93be0e0c5c169419d371fd2a2506b79fc06" 
+      sha256 "fbd9fef93bb342836dc706866315866229975d6d001965fcc7ed3b706fbbb2d0" 
       def install
         bin.install "zerotest-darwin-arm64" => "zerotest"
       end
